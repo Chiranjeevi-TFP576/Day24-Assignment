@@ -1,0 +1,15 @@
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\bin\Debug\net6.0\LambdaPracticeingProblembs.exe
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\bin\Debug\net6.0\LambdaPracticeingProblembs.deps.json
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\bin\Debug\net6.0\LambdaPracticeingProblembs.runtimeconfig.json
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\bin\Debug\net6.0\LambdaPracticeingProblembs.dll
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\bin\Debug\net6.0\LambdaPracticeingProblembs.pdb
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.csproj.AssemblyReference.cache
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.AssemblyInfoInputs.cache
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.AssemblyInfo.cs
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.dll
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\refint\LambdaPracticeingProblembs.dll
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.pdb
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\LambdaPracticeingProblembs.genruntimeconfig.cache
+D:\Bridgelabs\LambdaPracticeingProblembs\LambdaPracticeingProblembs\obj\Debug\net6.0\ref\LambdaPracticeingProblembs.dll
